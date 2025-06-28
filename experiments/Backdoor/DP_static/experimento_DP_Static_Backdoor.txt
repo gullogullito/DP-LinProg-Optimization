@@ -1,0 +1,600 @@
+
+ - Round 1: Training with ε=1.000, δ=0.00100
+Round metrics: [(2.0685915497545238, 0.6958)]
+Epsilon used: 1.0
+ASR: 0.1688
+------------------------------
+
+ - Round 2: Training with ε=1.000, δ=0.00100
+Round metrics: [(1.710405337543914, 0.7415)]
+Epsilon used: 2.0
+ASR: 0.11
+------------------------------
+
+ - Round 3: Training with ε=1.000, δ=0.00100
+Round metrics: [(1.3249187941749256, 0.7613)]
+Epsilon used: 3.0
+ASR: 0.1091
+------------------------------
+
+ - Round 4: Training with ε=1.000, δ=0.00100
+Round metrics: [(1.0140400885012204, 0.7779)]
+Epsilon used: 4.0
+ASR: 0.1196
+------------------------------
+
+ - Round 5: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.8009999514387819, 0.7922)]
+Epsilon used: 5.0
+ASR: 0.1314
+------------------------------
+
+ - Round 6: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.6652304443498008, 0.8085)]
+Epsilon used: 6.0
+ASR: 0.1468
+------------------------------
+
+ - Round 7: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.5803385736843267, 0.8248)]
+Epsilon used: 7.0
+ASR: 0.1602
+------------------------------
+
+ - Round 8: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.5229599836725778, 0.8304)]
+Epsilon used: 8.0
+ASR: 0.1665
+------------------------------
+
+ - Round 9: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.48617048218798714, 0.8363)]
+Epsilon used: 9.0
+ASR: 0.1766
+------------------------------
+
+ - Round 10: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.46169259315862443, 0.8398)]
+Epsilon used: 10.0
+ASR: 0.1873
+------------------------------
+
+ - Round 11: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.43960317655112413, 0.8459)]
+Epsilon used: 11.0
+ASR: 0.1996
+------------------------------
+
+ - Round 12: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.4242276885210516, 0.851)]
+Epsilon used: 12.0
+ASR: 0.2072
+------------------------------
+
+ - Round 13: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.4117766219301346, 0.8539)]
+Epsilon used: 13.0
+ASR: 0.2175
+------------------------------
+
+ - Round 14: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.40182862368921124, 0.8574)]
+Epsilon used: 14.0
+ASR: 0.2215
+------------------------------
+
+ - Round 15: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.3936798994819196, 0.8584)]
+Epsilon used: 15.0
+ASR: 0.2312
+------------------------------
+
+ - Round 16: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.385680688741489, 0.8611)]
+Epsilon used: 16.0
+ASR: 0.2424
+------------------------------
+
+ - Round 17: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.3781414317151609, 0.8639)]
+Epsilon used: 17.0
+ASR: 0.2476
+------------------------------
+
+ - Round 18: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.3715776817533917, 0.8672)]
+Epsilon used: 18.0
+ASR: 0.254
+------------------------------
+
+ - Round 19: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.3657107165398689, 0.8695)]
+Epsilon used: 19.0
+ASR: 0.2623
+------------------------------
+
+ - Round 20: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.3601965836157052, 0.8705)]
+Epsilon used: 20.0
+ASR: 0.2704
+------------------------------
+
+ - Round 21: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.35435866269345484, 0.8711)]
+Epsilon used: 21.0
+ASR: 0.2743
+------------------------------
+
+ - Round 22: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.3506503984593926, 0.874)]
+Epsilon used: 22.0
+ASR: 0.2848
+------------------------------
+
+ - Round 23: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.3468437654237016, 0.8746)]
+Epsilon used: 23.0
+ASR: 0.2885
+------------------------------
+
+ - Round 24: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.3438107110202884, 0.8754)]
+Epsilon used: 24.0
+ASR: 0.2955
+------------------------------
+
+ - Round 25: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.34075808979737493, 0.8777)]
+Epsilon used: 25.0
+ASR: 0.3021
+------------------------------
+
+ - Round 26: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.33519990766010344, 0.8783)]
+Epsilon used: 26.0
+ASR: 0.3055
+------------------------------
+
+ - Round 27: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.3324967512069419, 0.8792)]
+Epsilon used: 27.0
+ASR: 0.3168
+------------------------------
+
+ - Round 28: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.32901796948509854, 0.8796)]
+Epsilon used: 28.0
+ASR: 0.3289
+------------------------------
+
+ - Round 29: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.32661614317101795, 0.8811)]
+Epsilon used: 29.0
+ASR: 0.3411
+------------------------------
+
+ - Round 30: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.3254800784630707, 0.883)]
+Epsilon used: 30.0
+ASR: 0.3515
+------------------------------
+
+ - Round 31: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.32141486219704724, 0.883)]
+Epsilon used: 31.0
+ASR: 0.3729
+------------------------------
+
+ - Round 32: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.32001201503764326, 0.8848)]
+Epsilon used: 32.0
+ASR: 0.3851
+------------------------------
+
+ - Round 33: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.31637184343303737, 0.8854)]
+Epsilon used: 33.0
+ASR: 0.3954
+------------------------------
+
+ - Round 34: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.3134755505064425, 0.8873)]
+Epsilon used: 34.0
+ASR: 0.4086
+------------------------------
+
+ - Round 35: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.3117338317496994, 0.8877)]
+Epsilon used: 35.0
+ASR: 0.4231
+------------------------------
+
+ - Round 36: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.31103099675509877, 0.8888)]
+Epsilon used: 36.0
+ASR: 0.4408
+------------------------------
+
+ - Round 37: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.30699854598829923, 0.889)]
+Epsilon used: 37.0
+ASR: 0.4586
+------------------------------
+
+ - Round 38: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.3054640079244448, 0.8893)]
+Epsilon used: 38.0
+ASR: 0.4705
+------------------------------
+
+ - Round 39: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.3036413376514142, 0.8888)]
+Epsilon used: 39.0
+ASR: 0.4708
+------------------------------
+
+ - Round 40: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.30169794814417156, 0.8894)]
+Epsilon used: 40.0
+ASR: 0.4787
+------------------------------
+
+ - Round 41: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.3002456899720449, 0.8902)]
+Epsilon used: 41.0
+ASR: 0.4898
+------------------------------
+
+ - Round 42: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.29844061799418814, 0.893)]
+Epsilon used: 42.0
+ASR: 0.5037
+------------------------------
+
+ - Round 43: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.29709044278572544, 0.8922)]
+Epsilon used: 43.0
+ASR: 0.5226
+------------------------------
+
+ - Round 44: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.29611743312959854, 0.894)]
+Epsilon used: 44.0
+ASR: 0.5324
+------------------------------
+
+ - Round 45: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.29499730220237097, 0.8942)]
+Epsilon used: 45.0
+ASR: 0.5548
+------------------------------
+
+ - Round 46: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.29412900013759874, 0.8953)]
+Epsilon used: 46.0
+ASR: 0.5735
+------------------------------
+
+ - Round 47: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.29227379419076177, 0.8943)]
+Epsilon used: 47.0
+ASR: 0.5852
+------------------------------
+
+ - Round 48: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2914616454142732, 0.896)]
+Epsilon used: 48.0
+ASR: 0.5853
+------------------------------
+
+ - Round 49: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.28949503620830586, 0.8954)]
+Epsilon used: 49.0
+ASR: 0.595
+------------------------------
+
+ - Round 50: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.28960688171771387, 0.8961)]
+Epsilon used: 50.0
+ASR: 0.6146
+------------------------------
+
+ - Round 51: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2884830853904779, 0.8954)]
+Epsilon used: 51.0
+ASR: 0.635
+------------------------------
+
+ - Round 52: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2880897736087584, 0.896)]
+Epsilon used: 52.0
+ASR: 0.6505
+------------------------------
+
+ - Round 53: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.28561906791485536, 0.8961)]
+Epsilon used: 53.0
+ASR: 0.6686
+------------------------------
+
+ - Round 54: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2844857047088801, 0.8975)]
+Epsilon used: 54.0
+ASR: 0.6782
+------------------------------
+
+ - Round 55: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2837320295349954, 0.8972)]
+Epsilon used: 55.0
+ASR: 0.6849
+------------------------------
+
+ - Round 56: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2837319062255061, 0.8979)]
+Epsilon used: 56.0
+ASR: 0.6792
+------------------------------
+
+ - Round 57: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2831872812808512, 0.8972)]
+Epsilon used: 57.0
+ASR: 0.6942
+------------------------------
+
+ - Round 58: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2825467954523647, 0.8978)]
+Epsilon used: 58.0
+ASR: 0.7094
+------------------------------
+
+ - Round 59: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2812590174043712, 0.8982)]
+Epsilon used: 59.0
+ASR: 0.7224
+------------------------------
+
+ - Round 60: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2804004415964928, 0.8975)]
+Epsilon used: 60.0
+ASR: 0.7222
+------------------------------
+
+ - Round 61: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.27734112962128254, 0.8989)]
+Epsilon used: 61.0
+ASR: 0.7262
+------------------------------
+
+ - Round 62: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2772634081756726, 0.9)]
+Epsilon used: 62.0
+ASR: 0.729
+------------------------------
+
+ - Round 63: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.27688641415331694, 0.8995)]
+Epsilon used: 63.0
+ASR: 0.734
+------------------------------
+
+ - Round 64: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2754326448106347, 0.8999)]
+Epsilon used: 64.0
+ASR: 0.7384
+------------------------------
+
+ - Round 65: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.27480488031293254, 0.9008)]
+Epsilon used: 65.0
+ASR: 0.7504
+------------------------------
+
+ - Round 66: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.27437984914825364, 0.9008)]
+Epsilon used: 66.0
+ASR: 0.7611
+------------------------------
+
+ - Round 67: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2729601790658392, 0.901)]
+Epsilon used: 67.0
+ASR: 0.7718
+------------------------------
+
+ - Round 68: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.27172532682411205, 0.901)]
+Epsilon used: 68.0
+ASR: 0.7876
+------------------------------
+
+ - Round 69: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.27106547285430727, 0.901)]
+Epsilon used: 69.0
+ASR: 0.7985
+------------------------------
+
+ - Round 70: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2716525823187333, 0.9009)]
+Epsilon used: 70.0
+ASR: 0.7915
+------------------------------
+
+ - Round 71: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2702856472077461, 0.9021)]
+Epsilon used: 71.0
+ASR: 0.8075
+------------------------------
+
+ - Round 72: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.26931514291051095, 0.9025)]
+Epsilon used: 72.0
+ASR: 0.8126
+------------------------------
+
+ - Round 73: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2701498063775107, 0.903)]
+Epsilon used: 73.0
+ASR: 0.813
+------------------------------
+
+ - Round 74: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.26866558376259314, 0.9037)]
+Epsilon used: 74.0
+ASR: 0.8227
+------------------------------
+
+ - Round 75: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.268389658925061, 0.9036)]
+Epsilon used: 75.0
+ASR: 0.8305
+------------------------------
+
+ - Round 76: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2673212632346458, 0.9041)]
+Epsilon used: 76.0
+ASR: 0.8332
+------------------------------
+
+ - Round 77: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2671280700784807, 0.9034)]
+Epsilon used: 77.0
+ASR: 0.8409
+------------------------------
+
+ - Round 78: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.26564870781887073, 0.9038)]
+Epsilon used: 78.0
+ASR: 0.8398
+------------------------------
+
+ - Round 79: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.26511688685169615, 0.9043)]
+Epsilon used: 79.0
+ASR: 0.841
+------------------------------
+
+ - Round 80: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2650383771798862, 0.9044)]
+Epsilon used: 80.0
+ASR: 0.8418
+------------------------------
+
+ - Round 81: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2643103884717527, 0.9042)]
+Epsilon used: 81.0
+ASR: 0.8523
+------------------------------
+
+ - Round 82: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.26438486371367886, 0.9035)]
+Epsilon used: 82.0
+ASR: 0.8673
+------------------------------
+
+ - Round 83: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2641037842348075, 0.9032)]
+Epsilon used: 83.0
+ASR: 0.8658
+------------------------------
+
+ - Round 84: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.26328182525147265, 0.9033)]
+Epsilon used: 84.0
+ASR: 0.8726
+------------------------------
+
+ - Round 85: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2625724944277122, 0.9043)]
+Epsilon used: 85.0
+ASR: 0.8737
+------------------------------
+
+ - Round 86: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.26301261692191846, 0.9041)]
+Epsilon used: 86.0
+ASR: 0.8825
+------------------------------
+
+ - Round 87: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2632733722404836, 0.9055)]
+Epsilon used: 87.0
+ASR: 0.8805
+------------------------------
+
+ - Round 88: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2630041767054568, 0.9051)]
+Epsilon used: 88.0
+ASR: 0.8815
+------------------------------
+
+ - Round 89: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.26277232800904937, 0.9051)]
+Epsilon used: 89.0
+ASR: 0.8864
+------------------------------
+
+ - Round 90: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.26277724138130776, 0.9049)]
+Epsilon used: 90.0
+ASR: 0.8877
+------------------------------
+
+ - Round 91: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2635451497468419, 0.9051)]
+Epsilon used: 91.0
+ASR: 0.8836
+------------------------------
+
+ - Round 92: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.26243120624710575, 0.9049)]
+Epsilon used: 92.0
+ASR: 0.8871
+------------------------------
+
+ - Round 93: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2611041979406017, 0.9056)]
+Epsilon used: 93.0
+ASR: 0.8936
+------------------------------
+
+ - Round 94: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.26166782585291054, 0.9054)]
+Epsilon used: 94.0
+ASR: 0.8945
+------------------------------
+
+ - Round 95: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.260294087564412, 0.9062)]
+Epsilon used: 95.0
+ASR: 0.9011
+------------------------------
+
+ - Round 96: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2607281814082362, 0.9067)]
+Epsilon used: 96.0
+ASR: 0.8974
+------------------------------
+
+ - Round 97: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.25880750110402656, 0.9066)]
+Epsilon used: 97.0
+ASR: 0.8993
+------------------------------
+
+ - Round 98: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2585169575846614, 0.9072)]
+Epsilon used: 98.0
+ASR: 0.902
+------------------------------
+
+ - Round 99: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.25842895607550304, 0.9074)]
+Epsilon used: 99.0
+ASR: 0.9048
+------------------------------
+
+ - Round 100: Training with ε=1.000, δ=0.00100
+Round metrics: [(0.2583767450786532, 0.907)]
+Epsilon used: 100.0
+ASR: 0.9074
+------------------------------
