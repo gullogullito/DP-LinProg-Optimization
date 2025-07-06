@@ -42,17 +42,18 @@ Implementation of all 8 experiments carried out in my thesis. The code explores 
 ```plaintext
     .
     ├── experiments/
-    │   ├── LabelFlipping/
-    │   │   ├── DP_Static/
-    │   │   └── DP_Optimized/
+    │   ├── LabelFlipping (same for Gaussian and Backdoor)/
+    |   |   |── MNIST/
+    │   │   |  ├── DP_Static/
+    |   │   │     ├── n_poisoned_experiments/
+    │   │   |  └── DP_Optimized/
+    |   │   │     ├── n_poisoned_experiments/
+    |   |   |── FashionMNIST/
+    |   |   |  ├── ...
+    |   |   |── CIFAR-10/
+    |   |   |  ├── ...
     │   ├── DMUG/
     │   │   ├── DP_Static/
     │   │   └── DP_Optimized/
-    │   ├── Backdoor/
-    │   │   ├── DP_Static/
-    │   │   └── DP_Optimized/
-    │   └── Gaussian/
-    │       ├── DP_Static/
-    │       └── DP_Optimized/
     └── figures_TFG.ipynb
 ```
